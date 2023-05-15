@@ -69,7 +69,7 @@ ScrollReveal().reveal('.about-col-2,.service-list,.work-list,.social-icons,.cont
 ScrollReveal().reveal('.h1-reveal',{origin: 'right'});
 
 const typed = new Typed('.multiple-text',{
-    strings:['UI/UX Designer','Web Designer','Web Development'],
+    strings:['UI/UX Designer','Web Designer','Web Developer'],
     typeSpeed: 150,
     backDelay: 100,
     backSpeed : 100,
